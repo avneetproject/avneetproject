@@ -24,9 +24,9 @@ I am a masters student in Computer Science with focus in Data Science and Machin
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/avneetproject"><img src="https://github-readme-stats.vercel.app/api?username=avneetproject&show_icons=true&hide=prs,issues,&count_private=true&title_color=ec4899&text_color=64748b&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="avneetproject's GitHub stats" /></a>
-
-<a href="https://git.io/streak-stats"><[img src="https://github-readme-streak-stats.herokuapp.com/?user=avneetprojec](https://streak-stats.demolab.com?user=avneetproject)t&stroke=64748b&background=000000&ring=ec4899&fire=ec4899&currStreakNum=64748b&currStreakLabel=ec4899&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+<a href="http://www.github.com/avneetproject"><img src="https://github-readme-stats.vercel.app/api?username=avneetproject&show_icons=true&hide=prs,issues,&count_private=true&title_color=ec4899&text_color=14b8a6&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="avneetproject's GitHub stats" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+<a href="https://git.io/streak-stats"><[img src="https://streak-stats.demolab.com?user=avneetproject"&stroke=64748b&background=000000&ring=ec4899&fire=ec4899&currStreakNum=64748b&currStreakLabel=ec4899&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
 <a href="http://www.github.com/avneetproject"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=avneetproject&bg_color=000000&color=64748b&line=ec4899&point=64748b&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
