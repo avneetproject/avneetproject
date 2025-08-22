@@ -22,8 +22,6 @@ I am a masters student in Computer Science with focus in Data Science and Machin
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/avneetproject"><img src="https://github-readme-stats.vercel.app/api?username=avneetproject&show_icons=true&hide=prs,issues,&count_private=true&title_color=ec4899&text_color=14b8a6&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="avneetproject's GitHub stats" /></a>
 
 <a href="https://github.com/avneetproject" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneetproject&langs_count=10&title_color=ec4899&text_color=64748b&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
