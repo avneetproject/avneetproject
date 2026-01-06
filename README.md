@@ -1,7 +1,7 @@
 Hi 👋 My name is Avneet Singh
 ====================================================================================================================================
 
-I am a masters student in Computer Science with focus in Data Science and Machine Learning.
+I am a Computer Science master student contributing in research lab
 
 * 🌍  I'm based in Chicago, IL
 * ✉️  You can contact me at [avneet2w@gmail.com](mailto:avneet2w@gmail.com)
